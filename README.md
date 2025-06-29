@@ -48,7 +48,4 @@ This repository is a **demo-only showcase**. Source code is not publicly availab
 ## 👨‍💻 Developer
 
 **Furkan Gença**  
-B.Sc. in Software Engineering, Samsun University  
-*Graduation Project / Web Development Final — 2025*
 
----
